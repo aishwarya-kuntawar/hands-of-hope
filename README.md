@@ -1,4 +1,16 @@
-# Handsofhope
+# Hands of hope
+![image](https://github.com/user-attachments/assets/cdf5c8cd-390f-47d7-85b9-591596c48db6)
+#
+## Charity page 
+![image](https://github.com/user-attachments/assets/855d48f0-2425-4aaf-92b1-486135dfe7b5)
+#
+## Donation page
+![image](https://github.com/user-attachments/assets/5fe01919-027a-4b6a-be79-911d078e49f1)
+#
+## Register and login page
+![image](https://github.com/user-attachments/assets/92c9ed42-cc51-443d-b63c-87f50dccc933)
+
+#
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
 
